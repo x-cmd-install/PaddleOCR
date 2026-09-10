@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.7.0"
   latestRelease: "v3.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:25:24Z
+  collectedAt: 2026-09-10T17:14:59Z
 timeline:
   created: 2020-05-08
   lastCommit: 2026-07-22
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-06-11
   lastPrerelease: 
 popularity:
-  star: 89227
+  star: 89274
   watcher: 566
-  fork: 11320
+  fork: 11319
   release: 33
   contributor: 339
   pullRequest: 4042
@@ -102,7 +102,7 @@ total:
   commit: 6925
 ---
 path: /home/runner/.x-repo/github.com/PaddlePaddle/PaddleOCR
-collectedAt: 2026-09-10T05:29:47Z
+collectedAt: 2026-09-10T17:19:07Z
 loc:
   Json:
     code: 109162
