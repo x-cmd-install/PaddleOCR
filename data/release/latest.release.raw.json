@@ -43,8 +43,8 @@
   "body": "## 2026.6.11 v3.7.0 released\r\n\r\n* **Release PP-OCRv6**\r\n\r\n    - **Accuracy boost**: Medium tier achieves +4.6% detection and +5.1% recognition over PP-OCRv5_server, surpassing mainstream VLMs (Qwen3-VL-235B, GPT-5.5) with only 34.5M parameters.\r\n    - **50 languages unified**: Single model covers Chinese, English, Japanese, and 46 Latin-script languages — no model switching needed.\r\n    - **Specialized scenarios**: Major improvements in digital displays, dot-matrix characters, tire prints, and industrial text recognition.\r\n    - **Faster inference**: 5.2× CPU speedup (OpenVINO), 6.1× on Apple M4 (tiny), 0.13s on A100 GPU.\r\n    - **Three tiers for all scenarios**: tiny (1.5M) / small (7.7M) / medium (34.5M) for edge, mobile, and server deployment.\r\n\r\n## 2026.6.11 v3.7.0 发布\r\n\r\n* **发布 PP-OCRv6**\r\n\r\n    - **精度全面提升**：medium 档相比 PP-OCRv5_server 检测精度提升 4.6%、识别精度提升 5.1%，以仅 34.5M 参数超越 Qwen3-VL-235B、GPT-5.5 等主流视觉语言大模型。\r\n    - **50 种语言统一支持**：单一模型覆盖中文、英文、日文及 46 种拉丁语系语言，无需为不同语种切换模型。\r\n    - **专业场景增强**：数码显示屏、点阵字符、轮胎印字、工业字符等传统 VLM 难以覆盖的场景识别能力大幅提升。\r\n    - **推理速度更快**：medium 档 CPU OpenVINO 推理加速 5.2×，tiny 档 Apple M4 加速 6.1×，A100 上仅需 0.13s。\r\n    - **三档模型覆盖全场景**：tiny（1.5M）/ small（7.7M）/ medium（34.5M）分别面向端侧/移动端/服务端部署。\r\n\r\n**Full Changelog**: https://github.com/PaddlePaddle/PaddleOCR/compare/v3.6.0...v3.7.0",
   "reactions": {
     "url": "https://api.github.com/repos/PaddlePaddle/PaddleOCR/releases/337935149/reactions",
-    "total_count": 43,
-    "+1": 9,
+    "total_count": 44,
+    "+1": 10,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
