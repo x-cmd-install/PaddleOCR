@@ -4,7 +4,7 @@
 
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-![PaddleOCR](https://repo.x-cmd.io/PaddleOCR.svg)
+[![x-cmd/install — PaddleOCR Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PaddleOCR.svg)](https://x-cmd.com/install/PaddleOCR)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,746 · **Forks**: 11,360 · **Open issues**: 10,734 · **Contributors**: 311
+- **Stars**: 89,852 · **Forks**: 11,370 · **Open issues**: 10,736 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 82 · **Closed issues**: 10567 · **Open issues**: 167 · **Commits**: 6927
+- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 82 · **Closed issues**: 10567 · **Open issues**: 169 · **Commits**: 6927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 15 | 4 | 12 | 2 |
-| last60d | 2026-07-20 | 0 | 3 | 18 | 14 | 28 | 4 |
-| 90d | 2026-06-20 | 0 | 7 | 28 | 26 | 46 | 7 |
-| last180d | 2026-03-22 | 4 | 69 | 57 | 88 | 111 | 71 |
-| 360d | 2025-09-23 | 9 | 224 | 72 | 551 | 148 | 204 |
-| last720d | 2024-09-28 | 19 | 747 | 81 | 1253 | 155 | 640 |
+| 30d | 2026-08-21 | 0 | 2 | 14 | 3 | 12 | 2 |
+| last60d | 2026-07-22 | 0 | 2 | 18 | 9 | 28 | 4 |
+| 90d | 2026-06-22 | 0 | 7 | 27 | 26 | 45 | 7 |
+| last180d | 2026-03-24 | 4 | 68 | 57 | 86 | 110 | 71 |
+| 360d | 2025-09-25 | 9 | 223 | 72 | 539 | 150 | 204 |
+| last720d | 2024-09-30 | 19 | 743 | 81 | 1252 | 157 | 638 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PaddleOCR lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:39:37Z._
