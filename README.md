@@ -4,7 +4,7 @@
 
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-[![x-cmd/install — PaddleOCR Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PaddleOCR.svg)](https://x-cmd.com/install/PaddleOCR)
+[![x-cmd/install — PaddleOCR Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/PaddleOCR.svg)](https://x-cmd.com/install/PaddleOCR)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,967 · **Forks**: 11,381 · **Open issues**: 10,737 · **Contributors**: 313
+- **Stars**: 90,057 · **Forks**: 11,389 · **Open issues**: 10,738 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 83 · **Closed issues**: 10567 · **Open issues**: 170 · **Commits**: 6927
+- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 79 · **Closed issues**: 10567 · **Open issues**: 171 · **Commits**: 6927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 15 | 3 | 13 | 2 |
-| last60d | 2026-07-24 | 0 | 2 | 18 | 8 | 28 | 2 |
-| 90d | 2026-06-24 | 0 | 5 | 28 | 25 | 40 | 4 |
-| last180d | 2026-03-26 | 4 | 66 | 57 | 82 | 108 | 68 |
-| 360d | 2025-09-27 | 9 | 222 | 73 | 533 | 151 | 201 |
-| last720d | 2024-10-02 | 19 | 741 | 82 | 1251 | 158 | 634 |
+| 30d | 2026-08-24 | 0 | 2 | 16 | 3 | 14 | 2 |
+| last60d | 2026-07-25 | 0 | 2 | 19 | 8 | 29 | 2 |
+| 90d | 2026-06-25 | 0 | 5 | 29 | 24 | 39 | 4 |
+| last180d | 2026-03-27 | 4 | 66 | 58 | 82 | 108 | 68 |
+| 360d | 2025-09-28 | 9 | 220 | 74 | 531 | 152 | 201 |
+| last720d | 2024-10-03 | 19 | 741 | 79 | 1251 | 159 | 633 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PaddleOCR lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:36:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:16Z._

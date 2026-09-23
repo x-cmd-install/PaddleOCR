@@ -4,7 +4,7 @@
 
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-[![x-cmd/install — PaddleOCR Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PaddleOCR.svg?lang=zh)](https://x-cmd.com/install/PaddleOCR)
+[![x-cmd/install — PaddleOCR Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/PaddleOCR.svg?lang=zh)](https://x-cmd.com/install/PaddleOCR)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install PaddleOCR
 
 ## 流行度
 
-- **Star**: 89,967 · **Fork**: 11,381 · **开放 issue**: 10,737 · **贡献者**: 313
+- **Star**: 90,057 · **Fork**: 11,389 · **开放 issue**: 10,738 · **贡献者**: 313
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 83 · **已关闭 issue**: 10567 · **开放 issue**: 170 · **提交数**: 6927
+- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 79 · **已关闭 issue**: 10567 · **开放 issue**: 171 · **提交数**: 6927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 15 | 3 | 13 | 2 |
-| last60d | 2026-07-24 | 0 | 2 | 18 | 8 | 28 | 2 |
-| 90d | 2026-06-24 | 0 | 5 | 28 | 25 | 40 | 4 |
-| last180d | 2026-03-26 | 4 | 66 | 57 | 82 | 108 | 68 |
-| 360d | 2025-09-27 | 9 | 222 | 73 | 533 | 151 | 201 |
-| last720d | 2024-10-02 | 19 | 741 | 82 | 1251 | 158 | 634 |
+| 30d | 2026-08-24 | 0 | 2 | 16 | 3 | 14 | 2 |
+| last60d | 2026-07-25 | 0 | 2 | 19 | 8 | 29 | 2 |
+| 90d | 2026-06-25 | 0 | 5 | 29 | 24 | 39 | 4 |
+| last180d | 2026-03-27 | 4 | 66 | 58 | 82 | 108 | 68 |
+| 360d | 2025-09-28 | 9 | 220 | 74 | 531 | 152 | 201 |
+| last720d | 2024-10-03 | 19 | 741 | 79 | 1251 | 159 | 633 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PaddleOCR 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:36:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:47:17Z._
