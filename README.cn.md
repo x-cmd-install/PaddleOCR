@@ -26,13 +26,13 @@ x install PaddleOCR
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.2 / 10**
 
 评分最低的几项:
 
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install PaddleOCR
 
 ## 流行度
 
-- **Star**: 90,309 · **Fork**: 11,418 · **开放 issue**: 10,740 · **贡献者**: 313
+- **Star**: 90,378 · **Fork**: 11,424 · **开放 issue**: 10,741 · **贡献者**: 313
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 80 · **已关闭 issue**: 10567 · **开放 issue**: 173 · **提交数**: 6927
+- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 79 · **已关闭 issue**: 10567 · **开放 issue**: 174 · **提交数**: 6927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 2 | 16 | 1 | 15 | 2 |
-| last60d | 2026-07-30 | 0 | 2 | 20 | 6 | 24 | 2 |
-| 90d | 2026-06-30 | 0 | 4 | 27 | 23 | 41 | 4 |
-| last180d | 2026-04-01 | 4 | 61 | 56 | 79 | 107 | 63 |
-| 360d | 2025-10-03 | 9 | 220 | 74 | 524 | 154 | 201 |
-| last720d | 2024-10-08 | 19 | 738 | 80 | 1249 | 161 | 632 |
+| 30d | 2026-08-30 | 0 | 2 | 15 | 1 | 16 | 2 |
+| last60d | 2026-07-31 | 0 | 2 | 19 | 6 | 25 | 2 |
+| 90d | 2026-07-01 | 0 | 4 | 26 | 21 | 40 | 4 |
+| last180d | 2026-04-02 | 4 | 61 | 55 | 79 | 107 | 63 |
+| 360d | 2025-10-04 | 9 | 220 | 73 | 523 | 155 | 201 |
+| last720d | 2024-10-09 | 19 | 737 | 79 | 1249 | 162 | 631 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PaddleOCR 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:07:38Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:18:45Z._
