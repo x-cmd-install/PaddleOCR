@@ -26,13 +26,13 @@ x install PaddleOCR
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install PaddleOCR
 
 ## 流行度
 
-- **Star**: 90,945 · **Fork**: 11,473 · **开放 issue**: 10,739 · **贡献者**: 313
+- **Star**: 91,006 · **Fork**: 11,473 · **开放 issue**: 10,740 · **贡献者**: 313
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 78 · **已关闭 issue**: 10574 · **开放 issue**: 165 · **提交数**: 6927
+- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 79 · **已关闭 issue**: 10575 · **开放 issue**: 165 · **提交数**: 6927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 11 | 1 | 14 | 0 |
-| last60d | 2026-08-13 | 0 | 2 | 22 | 5 | 24 | 2 |
-| 90d | 2026-07-14 | 0 | 4 | 27 | 15 | 38 | 4 |
-| last180d | 2026-04-15 | 3 | 59 | 51 | 83 | 91 | 56 |
-| 360d | 2025-10-17 | 8 | 207 | 75 | 500 | 146 | 181 |
-| last720d | 2024-10-22 | 18 | 706 | 78 | 1236 | 153 | 609 |
+| 30d | 2026-09-13 | 0 | 2 | 12 | 1 | 14 | 0 |
+| last60d | 2026-08-14 | 0 | 2 | 23 | 4 | 24 | 0 |
+| 90d | 2026-07-15 | 0 | 4 | 27 | 15 | 37 | 0 |
+| last180d | 2026-04-16 | 3 | 56 | 52 | 84 | 91 | 0 |
+| 360d | 2025-10-18 | 8 | 202 | 76 | 491 | 145 | 0 |
+| last720d | 2024-10-23 | 17 | 701 | 79 | 1236 | 153 | 607 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PaddleOCR 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:52:34Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:30:20Z._

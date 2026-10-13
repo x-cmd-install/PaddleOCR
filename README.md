@@ -26,13 +26,13 @@ Total: **280,927** lines of code across **991** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 90,945 · **Forks**: 11,473 · **Open issues**: 10,739 · **Contributors**: 313
+- **Stars**: 91,006 · **Forks**: 11,473 · **Open issues**: 10,740 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 78 · **Closed issues**: 10574 · **Open issues**: 165 · **Commits**: 6927
+- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 79 · **Closed issues**: 10575 · **Open issues**: 165 · **Commits**: 6927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 11 | 1 | 14 | 0 |
-| last60d | 2026-08-13 | 0 | 2 | 22 | 5 | 24 | 2 |
-| 90d | 2026-07-14 | 0 | 4 | 27 | 15 | 38 | 4 |
-| last180d | 2026-04-15 | 3 | 59 | 51 | 83 | 91 | 56 |
-| 360d | 2025-10-17 | 8 | 207 | 75 | 500 | 146 | 181 |
-| last720d | 2024-10-22 | 18 | 706 | 78 | 1236 | 153 | 609 |
+| 30d | 2026-09-13 | 0 | 2 | 12 | 1 | 14 | 0 |
+| last60d | 2026-08-14 | 0 | 2 | 23 | 4 | 24 | 0 |
+| 90d | 2026-07-15 | 0 | 4 | 27 | 15 | 37 | 0 |
+| last180d | 2026-04-16 | 3 | 56 | 52 | 84 | 91 | 0 |
+| 360d | 2025-10-18 | 8 | 202 | 76 | 491 | 145 | 0 |
+| last720d | 2024-10-23 | 17 | 701 | 79 | 1236 | 153 | 607 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PaddleOCR lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:52:33Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:30:19Z._
