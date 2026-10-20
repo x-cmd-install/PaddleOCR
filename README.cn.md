@@ -26,13 +26,13 @@ x install PaddleOCR
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install PaddleOCR
 
 ## 流行度
 
-- **Star**: 91,342 · **Fork**: 11,519 · **开放 issue**: 10,743 · **贡献者**: 313
+- **Star**: 91,394 · **Fork**: 11,529 · **开放 issue**: 10,744 · **贡献者**: 312
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 83 · **已关闭 issue**: 10576 · **开放 issue**: 167 · **提交数**: 6927
+- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 83 · **已关闭 issue**: 10576 · **开放 issue**: 168 · **提交数**: 6927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 12 | 1 | 10 | 0 |
-| last60d | 2026-08-20 | 0 | 2 | 25 | 4 | 21 | 2 |
-| 90d | 2026-07-21 | 0 | 3 | 28 | 14 | 38 | 2 |
-| last180d | 2026-04-22 | 2 | 48 | 55 | 82 | 90 | 52 |
-| 360d | 2025-10-24 | 8 | 196 | 79 | 450 | 146 | 178 |
-| last720d | 2024-10-29 | 17 | 694 | 83 | 1225 | 155 | 601 |
+| 30d | 2026-09-20 | 0 | 0 | 12 | 1 | 10 | 0 |
+| last60d | 2026-08-21 | 0 | 2 | 24 | 4 | 22 | 2 |
+| 90d | 2026-07-22 | 0 | 2 | 28 | 10 | 38 | 2 |
+| last180d | 2026-04-23 | 2 | 47 | 55 | 80 | 91 | 52 |
+| 360d | 2025-10-25 | 8 | 196 | 79 | 448 | 147 | 178 |
+| last720d | 2024-10-30 | 17 | 693 | 83 | 1222 | 156 | 599 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PaddleOCR 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:07:06Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T05:27:12Z._
