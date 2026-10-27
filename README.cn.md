@@ -26,13 +26,13 @@ x install PaddleOCR
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
+- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install PaddleOCR
 
 ## 流行度
 
-- **Star**: 91,666 · **Fork**: 11,553 · **开放 issue**: 10,752 · **贡献者**: 312
+- **Star**: 91,739 · **Fork**: 11,566 · **开放 issue**: 10,752 · **贡献者**: 312
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 83 · **已关闭 issue**: 10577 · **开放 issue**: 175 · **提交数**: 6927
+- **发布数**: 33 · **已合并 PR**: 3201 · **开放 PR**: 89 · **已关闭 issue**: 10577 · **开放 issue**: 175 · **提交数**: 6927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 9 | 1 | 15 | 0 |
-| last60d | 2026-08-27 | 0 | 2 | 24 | 3 | 29 | 2 |
-| 90d | 2026-07-28 | 0 | 2 | 27 | 7 | 42 | 2 |
-| last180d | 2026-04-29 | 2 | 45 | 54 | 73 | 99 | 50 |
-| 360d | 2025-10-31 | 7 | 187 | 79 | 415 | 153 | 171 |
-| last720d | 2024-11-05 | 17 | 685 | 83 | 1212 | 163 | 594 |
+| 30d | 2026-09-27 | 0 | 0 | 15 | 1 | 15 | 0 |
+| last60d | 2026-08-28 | 0 | 2 | 29 | 2 | 29 | 2 |
+| 90d | 2026-07-29 | 0 | 2 | 33 | 7 | 42 | 2 |
+| last180d | 2026-04-30 | 2 | 45 | 60 | 73 | 98 | 50 |
+| 360d | 2025-11-01 | 7 | 187 | 85 | 414 | 153 | 171 |
+| last720d | 2024-11-06 | 17 | 679 | 89 | 1211 | 163 | 591 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PaddleOCR 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:14:53Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:39:51Z._
