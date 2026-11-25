@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 93,111 · **Forks**: 11,673 · **Open issues**: 10,778 · **Contributors**: 312
+- **Stars**: 93,169 · **Forks**: 11,679 · **Open issues**: 10,779 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 105 · **Closed issues**: 10601 · **Open issues**: 177 · **Commits**: 6927
+- **Releases**: 33 · **Merged PRs**: 3201 · **Open PRs**: 107 · **Closed issues**: 10601 · **Open issues**: 178 · **Commits**: 6927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 29 | 0 | 24 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 36 | 1 | 39 | 0 |
-| 90d | 2026-08-26 | 0 | 2 | 50 | 4 | 52 | 0 |
-| last180d | 2026-05-28 | 2 | 28 | 68 | 86 | 84 | 0 |
-| 360d | 2025-11-29 | 6 | 148 | 101 | 319 | 151 | 0 |
-| last720d | 2024-12-04 | 17 | 653 | 105 | 1196 | 165 | 561 |
+| 30d | 2026-10-26 | 0 | 0 | 24 | 0 | 25 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 38 | 1 | 40 | 0 |
+| 90d | 2026-08-27 | 0 | 2 | 52 | 4 | 53 | 0 |
+| last180d | 2026-05-29 | 1 | 26 | 70 | 86 | 83 | 0 |
+| 360d | 2025-11-30 | 6 | 148 | 103 | 319 | 152 | 0 |
+| last720d | 2024-12-05 | 17 | 653 | 107 | 1195 | 166 | 559 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PaddleOCR lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:34:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:20:57Z._
