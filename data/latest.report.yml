@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.7.0"
   latestRelease: "v3.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:49:27Z
+  collectedAt: 2026-11-28T08:39:41Z
 timeline:
   created: 2020-05-08
   lastCommit: 2026-09-16
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-11
   lastPrerelease: 
 popularity:
-  star: 93362
+  star: 93411
   watcher: 572
-  fork: 11714
+  fork: 11718
   release: 33
-  contributor: 312
-  pullRequest: 4098
+  contributor: 311
+  pullRequest: 4099
   issue: 10786
 language:
   Python: 4185876
@@ -46,7 +46,7 @@ language:
 totalBytes: 6140701
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 28
@@ -54,7 +54,7 @@ recent:
     openIssue: 32
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 42
@@ -62,47 +62,47 @@ recent:
     openIssue: 45
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 2
-    openPR: 56
+    openPR: 57
     closedIssue: 3
     openIssue: 60
-    commit: 2
+    commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 26
-    openPR: 74
+    openPR: 73
     closedIssue: 87
     openIssue: 87
-    commit: 25
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
     mergedPR: 144
-    openPR: 107
-    closedIssue: 311
+    openPR: 108
+    closedIssue: 308
     openIssue: 158
-    commit: 144
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 17
     mergedPR: 652
-    openPR: 111
-    closedIssue: 1193
+    openPR: 112
+    closedIssue: 1192
     openIssue: 172
     commit: 558
 total:
   release: 33
   mergedPR: 3201
-  openPR: 111
+  openPR: 112
   closedIssue: 10602
   openIssue: 184
   commit: 6927
 ---
 path: /home/runner/.x-repo/github.com/PaddlePaddle/PaddleOCR
-collectedAt: 2026-11-27T09:52:46Z
+collectedAt: 2026-11-28T08:43:13Z
 loc:
   Json:
     code: 109162
